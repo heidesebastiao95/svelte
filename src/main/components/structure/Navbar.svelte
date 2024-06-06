@@ -40,7 +40,7 @@
                   <div class="flex-1 fs--1 title">All customers list</div>
                 </div>
               </a>
-              <a class="dropdown-item px-card py-1 fs-0" href="../app/events/event-detail.html">
+              <a class="dropdown-item px-card py-1 fs-0" href="/">
                 <div class="d-flex align-items-center"><span class="badge fw-medium text-decoration-none me-2 badge-soft-success">events:</span>
                   <div class="flex-1 fs--1 title">Latest events in current month</div>
                 </div>
@@ -125,7 +125,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link px-0 notification-indicator notification-indicator-warning notification-indicator-fill fa-icon-wait" href="#"><span class="fas fa-shopping-cart" data-fa-transform="shrink-7" style="font-size: 33px;"></span><span class="notification-indicator-number">1</span></a>
+        <a class="nav-link px-0 notification-indicator notification-indicator-warning notification-indicator-fill fa-icon-wait" href="/"><span class="fas fa-shopping-cart" data-fa-transform="shrink-7" style="font-size: 33px;"></span><span class="notification-indicator-number">1</span></a>
 
       </li>
       <li class="nav-item dropdown">
@@ -137,13 +137,13 @@
                 <div class="col-auto">
                   <h6 class="card-header-title mb-0">Notifications</h6>
                 </div>
-                <div class="col-auto ps-0 ps-sm-3"><a class="card-link fw-normal" href="#">Mark all as read</a></div>
+                <div class="col-auto ps-0 ps-sm-3"><a class="card-link fw-normal" href="/">Mark all as read</a></div>
               </div>
             </div>
             <div class="scrollbar-overlay" style="max-height:19rem">
               
             </div>
-            <div class="card-footer text-center border-top"><a class="card-link d-block" href="#">View all</a></div>
+            <div class="card-footer text-center border-top"><a class="card-link d-block" href="/">View all</a></div>
           </div>
         </div>
 
